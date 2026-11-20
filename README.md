@@ -1,8 +1,10 @@
 # 🚀 Transformer Architecture from Scratch (PyTorch)
 ### *De la modélisation séquentielle (RNN, LSTM) aux architectures Transformers (GPT, BERT)*
 
-**Auteur :** Walid Idir  
-**Technologies :** Python, PyTorch, Hugging Face Transformers, Pandas, NumPy, Matplotlib
+## 👨‍💻 Auteur
+
+* **Walid IDIR**
+* Projet réalisé dans le cadre du module **IA & RAG Multimodal**.
 
 ---
 
