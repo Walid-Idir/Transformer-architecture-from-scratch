@@ -1,0 +1,9 @@
+# Dataset volumineux (> 100 Mo interdit par GitHub)
+household_power_consumption.txt
+*.zip
+
+# Fichiers de sauvegarde temporaires et caches
+architecture_transformer (1)_original_backup.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
