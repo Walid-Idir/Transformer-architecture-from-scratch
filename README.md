@@ -1,12 +1,7 @@
 # 🚀 Transformer Architecture from Scratch (PyTorch)
 ### *De la modélisation séquentielle (RNN, LSTM) aux architectures Transformers (GPT, BERT)*
 
-## 👨‍💻 Auteur
 
-* **Walid IDIR**
-* Projet réalisé dans le cadre du module **IA & RAG Multimodal**.
-
----
 
 ## 📌 Présentation du Projet
 Ce projet propose une étude comparative approfondie et une implémentation complète des réseaux de neurones pour le traitement des séquences et des séries temporelles, ainsi que l'implémentation *from scratch* des deux grands paradigmes de l'architecture **Transformer** : **GPT** (décodeur autorégressif) et **BERT** (encodeur bidirectionnel).
@@ -108,3 +103,10 @@ Sur une série temporelle synthétique $y = \sin(x)$ découpée en séquences de
    ```bash
    jupyter notebook TP_Architecture_Transformer_Complet.ipynb
    ```
+
+---
+
+## 👨‍💻 Auteur
+
+* **Walid IDIR**
+* Projet réalisé dans le cadre du module **IA & RAG Multimodal**.
